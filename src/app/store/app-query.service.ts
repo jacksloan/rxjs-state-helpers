@@ -1,4 +1,4 @@
-import {Query} from './abstract-query';
+import {Query} from '../abstract-store/abstract-query';
 import {AppState} from './model';
 import {Injectable} from '@angular/core';
 import {AppStoreService} from './app-store.service';

@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Store} from './abstract-store';
+import {Store} from '../abstract-store/abstract-store';
 import {AppState, initialAppState} from './model';
 
 
